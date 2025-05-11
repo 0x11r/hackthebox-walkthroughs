@@ -3,7 +3,7 @@
 
 🌐 **IP:** `10.10.11.35`  
 🖥️ **OS:** Windows Server 2022  
-🎯 **Difficulty:** Medium  
+🎯 **Difficulty:** easy  
 📚 **Category:** Active Directory, Kerberos, SMB, LDAP, WinRM  
 👤 **Author:** [theblxckcicada](https://app.hackthebox.com/users/796798)  
 🧰 **Tools:** `nmap`, `rustscan`, `nxc`, `crackmapexec`, `smbclient`, `evil-winrm`, `impacket-secretsdump`  
