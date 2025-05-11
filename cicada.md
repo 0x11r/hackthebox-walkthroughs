@@ -169,4 +169,3 @@ evil-winrm -i 10.10.11.35 -u administrator -H 2b87e7c93a3e8a0ea4a581937016f341
 
 ---
 
-\
