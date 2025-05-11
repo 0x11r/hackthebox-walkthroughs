@@ -45,3 +45,4 @@ Want to connect, collaborate, or ask questions?
 ---
 
 > ⚠️ **Note**: All machines listed here are retired. No spoilers for active HTB content are shared.
+---
